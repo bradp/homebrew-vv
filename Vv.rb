@@ -2,9 +2,9 @@ require 'formula'
 
 class Vv < Formula
   homepage 'https://github.com/bradp/vv'
-  url 'https://github.com/bradp/vv/archive/1.4.6.tar.gz'
-  version '1.4.6'
-  sha1 '579be54807bbe66a69bace026da399f4c4e7d907'
+  url 'https://github.com/bradp/vv/archive/1.4.7.tar.gz'
+  version '1.4.7'
+  sha1 'd95cf867238ab1cd7b8b62b6cc59bbb23594209b'
 
   def install
     bin.install "vv" => "vv"
