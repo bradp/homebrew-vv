@@ -5,5 +5,6 @@ class Vv < Formula
 
   def install
     bin.install "vv" => "vv"
+    bin.install "vv-completions" => "vv-completions"
   end
 end
