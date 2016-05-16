@@ -1,7 +1,7 @@
 class Vv < Formula
   homepage "https://github.com/bradp/vv"
-  url "https://github.com/bradp/vv/archive/1.9.3.tar.gz"
-  sha256 "d119eb4b17231c7caad6950ff25dad80523adf1b2ca02412cd44a28233c275e2"
+  url "https://github.com/bradp/vv/archive/1.10.0.tar.gz"
+  sha256 "95b232c74c637b5499d75af612f63ea8d8bbdcb96869eb50e2d0ee49a45ce5dd"
 
   def install
     bin.install "vv" => "vv"
